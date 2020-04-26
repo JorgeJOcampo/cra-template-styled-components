@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-redux",
+  "name": "cra-template-styled-components",
   "version": "1.0.2",
   "scripts": {
     "prettify": "prettier --write './template/src/**/*.js'",
