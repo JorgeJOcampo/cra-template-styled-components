@@ -19,8 +19,8 @@ const GlobalStyle = createGlobalStyle`
 
 const theme = {
   backgroundColor: '#F6F8FC',
-  primary: '#8DC9BA',
-  secondary: 'white',
+  primary: 'rgb(112, 76, 182)',
+  secondary: 'black',
 };
 
 ReactDOM.render(
