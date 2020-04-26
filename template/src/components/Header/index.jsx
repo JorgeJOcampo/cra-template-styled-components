@@ -2,6 +2,7 @@ import React from 'react';
 import logo from '../../logo.svg';
 import Counter from '../Counter';
 import { Header, AppLogo, Span, AppLink, Text } from './styled';
+import Boing from '../../animations/Boing';
 
 export default () => {
   const links = [
@@ -38,7 +39,9 @@ export default () => {
 
   return (
     <Header>
-      <AppLogo img src={logo} alt="logo" />
+      <Boing iterationCount="infinite" duration="2s">
+        <AppLogo img src={logo} alt="logo" />
+      </Boing>
       <Counter />
       <Text>
         Edit <code>src/App.js</code> and save to reload.

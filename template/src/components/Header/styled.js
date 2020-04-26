@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import Rotate from '../../animations/Rotate';
 
 const Header = styled.div`
   background-color: ${({ theme }) => theme.backgroundColor};

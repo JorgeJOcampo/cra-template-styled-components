@@ -1,18 +1,18 @@
 import styled, { keyframes } from 'styled-components';
 import BaseAnimation from './BaseAnimation';
 
-const rotate = keyframes`
+const boing = keyframes`
   0% {
     transform: translateY(0);
   }
   50% {
-    transform: translateY(10px)
+    transform: translateY(10px);
   }
   100% {
-    transform: translateY(0px)
+    transform: translateY(0px);
   }
 `;
 
 export default styled(BaseAnimation)`
-  animation-name: ${rotate};
+  animation-name: ${boing};
 `;
