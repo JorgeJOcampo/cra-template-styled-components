@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
-import Router from './pages';
+import Router from 'pages';
 
 const App = styled.div`
   background-color: ${({ theme }) => theme.secondary};

@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from '../../logo.svg';
+import Boing from 'animations/Boing';
+import logo from 'logo.svg';
 import Counter from '../Counter';
 import { Header, AppLogo, Span, AppLink, Text } from './styled';
-import Boing from '../../animations/Boing';
 
 export default () => {
   const links = [
