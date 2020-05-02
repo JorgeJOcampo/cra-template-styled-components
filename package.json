@@ -1,6 +1,6 @@
 {
   "name": "cra-template-styled-components",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "scripts": {
     "prettify": "prettier --write './template/src/**/*.js'",
     "lint": "eslint -c './template/.eslintrc.json' './template/src/**/*.js'",
