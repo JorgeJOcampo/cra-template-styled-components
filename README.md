@@ -1,3 +1,7 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jorgeocampo)
+
+[¡Ayudame con un café ☕️!](https://cafecito.app/shorsh)
+
 # cra-template-styled-components
 
 [![build status](https://img.shields.io/travis/com/reduxjs/cra-template-styled-components/master.svg?style=flat-square)](https://travis-ci.com/reduxjs/cra-template-styled-components)
@@ -11,3 +15,5 @@ Redux + styled-components + eslint template for [Create React App](https://githu
 ```sh
 npx create-react-app my-app --template styled-components
 ```
+
+## Contributing
