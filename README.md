@@ -1,6 +1,6 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jorgeocampo)
 
-[¡Ayudame con un café ☕️!](https://cafecito.app/shorsh)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.png)](https://cafecito.app/shorsh)
 
 # cra-template-styled-components
 
